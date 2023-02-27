@@ -5,41 +5,7 @@
       "tip": "(In no particular order)"
     },
     "pmc": [
-      
-      {
-        "apacheId": "wuzhiguo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31196226?v=4",
-        "email": "wuzhiguo@apache.org",
-        "gitUrl": "https://github.com/kevinw66",
-        "githubId": "kevinw66",
-        "name": "Zhiguo Wu"
-      },
-  
-      {
-        "apacheId": "sekikn",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/898388?v=4",
-        "email": "sekikn@apache.org",
-        "gitUrl": "https://github.com/sekikn",
-        "githubId": "sekikn",
-        "name": "Kengo Seki"
-      },
-      {
-        "apacheId": "guyuqi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20575685?v=4",
-        "email": "guyuqi@apache.org",
-        "gitUrl": "https://github.com/guyuqi",
-        "githubId": "guyuqi",
-        "name": "Yuqi Gu"
-      },
-      
-      {
-        "apacheId": "weichiu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2691807?v=4",
-        "email": "weichiu@apache.org",
-        "gitUrl": "https://github.com/jojochuang",
-        "githubId": "jojochuang",
-        "name": "Wei-Chiu Chuang"
-      },
+
       {
         "apacheId": "atri",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1724131?v=4",
@@ -72,7 +38,14 @@
         "githubId": "evans-ye",
         "name": "Evans Ye"
       },
-      
+      {
+        "apacheId": "guyuqi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20575685?v=4",
+        "email": "guyuqi@apache.org",
+        "gitUrl": "https://github.com/guyuqi",
+        "githubId": "guyuqi",
+        "name": "Yuqi Gu"
+      },
       {
         "apacheId": "iwasakims",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1856607?v=4",
@@ -119,8 +92,15 @@
         "gitUrl": "https://github.com/rvs",
         "githubId": "rvs",
         "name": "Roman Shaposhnik"
+      },
+      {
+        "apacheId": "sekikn",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/898388?v=4",
+        "email": "sekikn@apache.org",
+        "gitUrl": "https://github.com/sekikn",
+        "githubId": "sekikn",
+        "name": "Kengo Seki"
       }
-
       ,
       {
         "apacheId": "umamahesh",
@@ -147,17 +127,32 @@
         "gitUrl": "https://github.com/vishalsuvagia",
         "githubId": "vishalsuvagia",
         "name": "Vishal Suvagia"
+      }      
+      ,      
+      {
+        "apacheId": "weichiu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2691807?v=4",
+        "email": "weichiu@apache.org",
+        "gitUrl": "https://github.com/jojochuang",
+        "githubId": "jojochuang",
+        "name": "Wei-Chiu Chuang"
+      },
+      {
+        "apacheId": "wuzhiguo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31196226?v=4",
+        "email": "wuzhiguo@apache.org",
+        "gitUrl": "https://github.com/kevinw66",
+        "githubId": "kevinw66",
+        "name": "Zhiguo Wu"
       }
-      
-      
     ],
     "committer": [
       {
         "apacheId": "yaolei",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/34790606?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13212217?v=4",
         "email": "yaolei@apache.org",
-        "gitUrl": "https://github.com/yaolei",
-        "githubId": "yaolei",
+        "gitUrl": "https://github.com/smallyao",
+        "githubId": "smallyao",
         "name": "Lei Yao"
       },
       {
